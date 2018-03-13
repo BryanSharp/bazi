@@ -120,7 +120,7 @@ def main():
     # birthMonth = input("please input your birth month: ")
     # birthDay = input("please input your birth day: ")
     # birthTime = input("please input your birth time: ")
-    shenchenbazi = getShenChenBaZi(1986,4,12,4)
+    shenchenbazi = getShenChenBaZi(1990,9,4,23)
     # shenchenbazi = getShenChenBaZi(
     #     int(birthYear), int(birthMonth), int(birthDay), int(birthTime))
     print("你的生辰八字是: %s" % (shenchenbazi))
